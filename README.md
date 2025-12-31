@@ -19,3 +19,12 @@ To run this app locally, ensure you have **R** installed along with the followin
 
 ```r
 install.packages(c("shiny", "tidyverse"))
+```
+
+## Live Demo
+https://silvernugget.shinyapps.io/birthday_paradox/
+
+German:
+
+https://silvernugget.shinyapps.io/Geburtstagsparadoxon/
+
