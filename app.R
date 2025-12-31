@@ -1,7 +1,5 @@
 library(shiny)
 library(tidyverse)
-library(DT)
-library(rsconnect)
 
 
 bday_p <- function(k) {
